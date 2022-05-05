@@ -51,7 +51,7 @@ const Welcome = () => {
             >
               <AiFillPlayCircle className="text-white mr-2" />
               <p className="text-white text-base font-semibold">
-                Connect Wallet
+                Connect Ropsten Testnet Wallet
               </p>
             </button>
           )}
